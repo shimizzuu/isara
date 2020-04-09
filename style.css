@@ -258,7 +258,7 @@ body {
 
 .conversion .contact {
   cursor: pointer;
-  margin: 10px 80px;
+  margin: 10px auto;
   max-width: 1028px;
   background-color: #DA6B64;
   letter-spacing: 0;
